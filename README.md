@@ -11,6 +11,6 @@ LQR and iLQR controllers for a 2D quadrotor.
 
 ## Algorithim
 <p float="center">
-  <img src="assets/iLQR.png" width="400" height="150" />
-  <img src="assets/backtracking_line_search.png" width="400" height="150" />
+  <img src="assets/iLQR.png" width="400" height="100" />
+  <img src="assets/backtracking_line_search.png" width="400" height="100" />
 </p> 
