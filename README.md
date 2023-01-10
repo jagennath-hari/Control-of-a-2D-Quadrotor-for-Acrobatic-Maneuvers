@@ -19,3 +19,6 @@ The two algorithims for desgining the iLQR controller are given below.
 ## Graphs
 The states during a full flip are vizualized below.
 <p align = 'left'><img src ='assets/quadrotor_states.png' width="600" height="400" ></p>   
+
+The control values are interpolated below.
+<p align = 'left'><img src ='assets/quadrotor_control.png' width="600" height="400" ></p> 
