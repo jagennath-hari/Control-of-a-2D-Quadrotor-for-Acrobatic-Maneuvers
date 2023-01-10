@@ -18,4 +18,4 @@ The two algorithims for desgining the iLQR controller are given below.
 
 ## Graphs
 The states during a full flip are vizualized below.
-<p align = 'left'><img src ='assets/quadrotor_states.png' width="550" height="300" ></p>   
+<p align = 'left'><img src ='assets/quadrotor_states.png' width="600" height="400" ></p>   
