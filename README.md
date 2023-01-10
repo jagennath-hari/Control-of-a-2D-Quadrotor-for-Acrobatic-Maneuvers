@@ -8,3 +8,9 @@ LQR and iLQR controllers for a 2D quadrotor.
   <img src="assets/drone_vertical.gif" width="400" height="350" />
   <img src="assets/drone_flip.gif" width="400" height="350" />
 </p> 
+
+## Algorithim
+<p float="center">
+  <img src="assets/iLQR" width="400" height="350" />
+  <img src="assets/backtracking_line_search" width="400" height="350" />
+</p> 
