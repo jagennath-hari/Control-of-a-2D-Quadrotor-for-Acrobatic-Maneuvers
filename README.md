@@ -10,6 +10,7 @@ LQR and iLQR controllers for a 2D quadrotor.
 </p> 
 
 ## Algorithim
+The two algorithims for desgining the iLQR controller are given below.
 <p float="center">
   <img src="assets/iLQR.png" width="400" height="100" />
   <img src="assets/backtracking_line_search.png" width="400" height="100" />
