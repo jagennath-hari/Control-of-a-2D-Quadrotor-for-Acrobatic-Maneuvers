@@ -22,3 +22,6 @@ The states during a full flip are vizualized below.
 
 The control values are interpolated below.
 <p align = 'left'><img src ='assets/quadrotor_control.png' width="600" height="400" ></p> 
+
+## Report
+To read a detailed report, click [HERE](assets/Report.pdf)
