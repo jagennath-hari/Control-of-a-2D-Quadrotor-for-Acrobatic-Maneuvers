@@ -15,3 +15,6 @@ The two algorithims for desgining the iLQR controller are given below.
   <img src="assets/iLQR.png" width="400" height="100" />
   <img src="assets/backtracking_line_search.png" width="400" height="100" />
 </p> 
+
+## Graphs
+The states during a full flip are vizualized below.
